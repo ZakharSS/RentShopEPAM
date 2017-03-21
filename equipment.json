@@ -1,0 +1,122 @@
+[
+  {
+    "category": {
+      "categoryName": "Tourism"
+    },
+    "equipmentName": "tent",
+    "price": 20,
+    "quantity": 9
+  },
+  {
+    "category": {
+      "categoryName": "Tourism"
+    },
+    "equipmentName": "backpack",
+    "price": 5,
+    "quantity": 7
+  },
+  {
+    "category": {
+      "categoryName": "Tourism"
+    },
+    "equipmentName": "canoe",
+    "price": 10,
+    "quantity": 5
+  },
+  {
+    "category": {
+      "categoryName": "Tourism"
+    },
+    "equipmentName": "bicycle",
+    "price": 5,
+    "quantity": 15
+  },
+  {
+    "category": {
+      "categoryName": "Tourism"
+    },
+    "equipmentName": "rollers",
+    "price": 5,
+    "quantity": 1
+  },
+  {
+    "category": {
+      "categoryName": "Fitness"
+    },
+    "equipmentName": "ball",
+    "price": 2,
+    "quantity": 12
+  },
+  {
+    "category": {
+      "categoryName": "Fitness"
+    },
+    "equipmentName": "dumbbells",
+    "price": 5,
+    "quantity": 8
+  },
+  {
+    "category": {
+      "categoryName": "Fitness"
+    },
+    "equipmentName": "stick",
+    "price": 5,
+    "quantity": 4
+  },
+  {
+    "category": {
+      "categoryName": "Fitness"
+    },
+    "equipmentName": "darts",
+    "price": 3,
+    "quantity": 11
+  },
+  {
+    "category": {
+      "categoryName": "Fitness"
+    },
+    "equipmentName": "ski",
+    "price": 3,
+    "quantity": 20
+  },
+  {
+    "category": {
+      "categoryName": "Fitness"
+    },
+    "equipmentName": "skates",
+    "price": 3,
+    "quantity": 19
+  },
+  {
+    "category": {
+      "categoryName": "Fitness"
+    },
+    "equipmentName": "snowboard",
+    "price": 3,
+    "quantity": 25
+  },
+  {
+    "category": {
+      "categoryName": "Fishing"
+    },
+    "equipmentName": "rod",
+    "price": 2,
+    "quantity": 15
+  },
+  {
+    "category": {
+      "categoryName": "Fishing"
+    },
+    "equipmentName": "lure",
+    "price": 1,
+    "quantity": 14
+  },
+  {
+    "category": {
+      "categoryName": "Fishing"
+    },
+    "equipmentName": "fishhook",
+    "price": 1,
+    "quantity": 50
+  }
+]
